@@ -1,0 +1,14 @@
+   [
+    {"id" : "10",
+     "name" : "samsung",
+     "about" : "I am samsung. A mobile phone, cellular phone, cell phone, cellphone, handphone, hand phone or pocket phone, sometimes shortened to simply mobile, cell, or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area"},
+     {"id" : "11",
+     "name" : "iPhone",
+     "about" : "I am iPhone. A mobile phone, cellular phone, cell phone, cellphone, handphone, hand phone or pocket phone, sometimes shortened to simply mobile, cell, or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area"},
+     {"id" : "12",
+     "name" : "OnePlus",
+     "about" : "I am OnePlus. A mobile phone, cellular phone, cell phone, cellphone, handphone, hand phone or pocket phone, sometimes shortened to simply mobile, cell, or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area"},
+     {"id" : "13",
+     "name" : "Poco",
+     "about" : "I am Poco. A mobile phone, cellular phone, cell phone, cellphone, handphone, hand phone or pocket phone, sometimes shortened to simply mobile, cell, or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area"}
+  ]
